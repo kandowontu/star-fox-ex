@@ -26,7 +26,7 @@ Presented by Team SFEX.
 
 | Role | Credit |
 |---|---|
-| Programming | KandoWontu; Sunlit |
+| Programming | kandowontu; Sunlit |
 | Additional code | Starxxon; Hayao Yokogawa; COOLK; Phonymike; Raphnet Labs; Catador |
 | Super FX programming | ChuckBorisNorris; MrL314 |
 | MSU-1 programming | Sunlit |
