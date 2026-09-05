@@ -1,0 +1,51 @@
+#ROMs
+*.sfc
+*.smc
+*.SFC
+*.SMC
+*.srm
+*.ram
+*/build/*
+
+#MSU stuff
+*.pcm
+*.msu
+*.MSU
+
+#backups
+*.bak
+*.BAK
+
+# build logs
+*.LOG
+*.log
+*/SFES/*.DOC
+*/SFES/*.doc
+*/SFES/*.TMP
+*/SFES/*.tmp
+*.CSV
+*.csv
+*.CSV#
+*.csv#
+*.SWP
+BLDDAT.ASM
+
+# VSCode stuff
+*/.vscode/*
+
+# Files generated during assembly
+*.CCR
+*.PCR
+SF/DATA/GFX/*.PAC
+SF/DATA/GFX/ALLCOLS.COL
+
+# Object files
+*.sob
+*.SOB
+
+# Linker Address Maps
+*.map
+*.MAP
+EQUATES.TXT
+SFES/DATA/GFX/ALLCOLS.PAC
+SYMBOLS.TXT
