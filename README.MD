@@ -35,8 +35,3 @@ Presented by Team SFEX.
 | Music | Random Stuff; Livvy94; Phonymike; Plasmariel; EG 9371; StudsX; Shub |
 | Testing | Sunlit; Chromius; Random Stuff; COOLK; Chris Highwind; Solgnar; DoctorWhosThat |
 | Ideas | Sunlit; COOLK; Random Stuff; Joshua Schäferhund (Patch93); Phonymike; DoctorWhosThat |
-
-The EX source also contains a conditional `MSU-1 SOUNDTRACK` card naming
-Random Stuff, Livvy94, Plasmariel, Shub, and Church of Kondo. Its accompanying
-source comment explicitly calls that list provisional, so it is preserved
-here without representing it as a finalized arrangement credit.
